@@ -1,0 +1,5 @@
+config FINGERPRINT_GSL6272S
+  bool FINGERPRINT_GSL6272S
+  default n
+  help
+    silead fingerprint driver

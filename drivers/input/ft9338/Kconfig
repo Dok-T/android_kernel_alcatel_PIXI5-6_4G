@@ -1,0 +1,5 @@
+config FINGERPRINT_FT9338
+  bool FINGERPRINT_FT9338
+  default n
+  help
+    focal-tech fingerprint driver

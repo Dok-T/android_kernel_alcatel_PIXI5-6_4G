@@ -1,0 +1,4 @@
+
+config MTK_RPR0521_NEW
+	bool "epl257x for MediaTek package"
+	default n

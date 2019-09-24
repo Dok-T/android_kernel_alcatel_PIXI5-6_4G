@@ -1,0 +1,7 @@
+config MTK_BMA2XX_NEW
+	bool "MTK_BMA2XX_NEW for MediaTek package"
+	default n
+	help
+	  It support different accelerometer sensor.
+	  If this option is set,it will support bma2xx accelerometer driver.
+
